@@ -2,4 +2,4 @@
 
 Technologies used: **HTML, CSS, SASS, BEM, JS**
 
-- [DEMO LINK](https://kostya-kosyuk.github.io/bose_landing/)
+- [DEMO LINK](https://kostya-kosyuk.github.io/kickstarter_landing/)
